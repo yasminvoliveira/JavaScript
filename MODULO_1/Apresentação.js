@@ -1,0 +1,1 @@
+console.log("Sou a Yasmin Oliveira, tenho 16 anos, sou de Santa Rita do Passa Quatro e estou no 2°Colegial B.\n Minha série favorita é Brooklin Nine Nine e meu filme preferido Avatar, gosto do corinthians, minha comida favorita é Picanha, meu hobby é andar de cavalo, não tenho uma música preferida, mas gosto muito da dupla Zé Neto e Cristiano, tenho um cavalo")
