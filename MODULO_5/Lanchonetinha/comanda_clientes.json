@@ -1,0 +1,22 @@
+{
+  "estabelecimento": "Five",
+  "cliente": {
+    "id": 1,
+    "nome": "Yasmin"
+  },
+  "itens": [
+    {
+      "item": "Five American",
+      "quantidade": 2,
+      "precoUnitario": 32,
+      "subTotal": 64
+    },
+    {
+      "item": "Five Pool",
+      "quantidade": 2,
+      "precoUnitario": 46,
+      "subTotal": 92
+    }
+  ],
+  "totalPagar": 156
+}
