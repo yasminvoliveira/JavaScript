@@ -1,0 +1,14 @@
+{
+  "name": "modulo_6",
+  "version": "1.0.0",
+  "description": "Demostração de servidor com Node.js",
+  "main": "servidorLivros.js",
+  "scripts": {
+    "start": "node servidorLivros.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Duda",
+  "license": "ISC",
+  "type": "module"
+}

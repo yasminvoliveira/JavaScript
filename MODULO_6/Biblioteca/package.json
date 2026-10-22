@@ -1,0 +1,15 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "Simulação de biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "start": "node servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yasmin",
+  "license": "ISC",
+  "type": "module"
+}
+
